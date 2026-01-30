@@ -11,6 +11,7 @@ export const products = [
     rating: {
       rate: 3.9,
       count: 120,
+      ratingCount: 200,
     },
   },
   {
